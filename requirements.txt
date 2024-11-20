@@ -2,4 +2,4 @@ numpy
 Pillow
 streamlit
 streamlit_drawable_canvas
-opencv-contrib-puthon-headless
+opencv-contrib-python-headless
